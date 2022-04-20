@@ -3,7 +3,7 @@
 * My GitHub profile contains the repos of different data analysis projects that reflect my experience in this field.
 * The projects in my account have been undertaken in a Udacity ND program.
 * I'm a Udacity ND graduate
-* Don't forgot to check my [repos](https://github.com/YousefSaber?tab=repositories) for the full list of projects I've performed.
+* Don't forget to check my [repos](https://github.com/YousefSaber?tab=repositories) for the full list of projects I've performed.
 
 ***
 #### **Certifications**.
